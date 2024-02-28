@@ -1,3 +1,9 @@
+# unit-test
+함수 하나하나와 같이 코드의 작은 부분을 테스트하는 것 
+
+# integration Testing
+서로 다른 시스템들의 상호작용이 잘 이루어 지는지 테스트하는 것 ( 
+
 # super-test
 Supertest는 api기능 테스트 라이브러리로, http요청을 보내고 응답을 검증하는데 주로 사용된다. 
 주로 express,fastify 등의 nodejs 웹 프레임워크와 같이 사용된다. 해당 프로젝트는 nestjs프로젝트로 super-test를 진행하였다.
