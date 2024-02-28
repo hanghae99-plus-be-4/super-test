@@ -1,7 +1,7 @@
 # unit-test
 함수 하나하나와 같이 코드의 작은 부분을 테스트하는 것 
 
-# integration Testing
+# integration-test
 서로 다른 시스템들의 상호작용이 잘 이루어 지는지 테스트하는 것 ( 
 
 # super-test
